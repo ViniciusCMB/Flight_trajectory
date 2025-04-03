@@ -1,6 +1,6 @@
 # Modelagem Trajetória de Voo
 
-Este projeto implementa a modelagem alternativa de um foguete utilizando Python. A modelagem é dividida em três fases: propulsada, balística e sustentada. A aplicação utiliza as bibliotecas `sympy`, `scipy`, `numpy` e `matplotlib` para a resolução das equações diferenciais e visualização dos resultados.
+Este projeto implementa a modelagem da trajetória de voo de um foguete utilizando Python. A modelagem é dividida em três fases: propulsada, balística e sustentada. A aplicação utiliza as bibliotecas `sympy`, `scipy`, `numpy` e `matplotlib` para a resolução das equações diferenciais e visualização dos resultados.
 
 ## Funcionalidades
 
