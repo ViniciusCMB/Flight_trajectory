@@ -1,6 +1,6 @@
-# Modelagem Alternativa
+# Modelagem Trajetória de Voo
 
-Este projeto implementa a modelagem alternativa de um foguete utilizando Python. A modelagem é dividida em três fases: propulsada, balística e sustentada. A aplicação utiliza as bibliotecas `sympy`, `scipy`, `numpy` e `matplotlib` para a resolução das equações diferenciais e visualização dos resultados.
+Este projeto implementa a modelagem da trajetória de voo de um foguete utilizando Python. A modelagem é dividida em três fases: propulsada, balística e sustentada. A aplicação utiliza as bibliotecas `sympy`, `scipy`, `numpy` e `matplotlib` para a resolução das equações diferenciais e visualização dos resultados.
 
 ## Funcionalidades
 
@@ -63,6 +63,7 @@ Este projeto implementa a modelagem alternativa de um foguete utilizando Python.
   - `scipy`
   - `numpy`
   - `matplotlib`
+<<<<<<< HEAD
 
 ## Instalação
 
@@ -91,3 +92,5 @@ pip install -r requirements.txt
 3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`).
 4. Faça push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
+=======
+>>>>>>> 6f5e72f12f40c60af26591518b7e2b88cbe60547
