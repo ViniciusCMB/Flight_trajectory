@@ -74,7 +74,3 @@ git clone https://github.com/SeuUsuario/ModelagemAlternativa.git
 cd ModelagemAlternativa
 pip install -r requirements.txt
 ```
-4. Faça push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
-=======
->>>>>>> 6f5e72f12f40c60af26591518b7e2b88cbe60547
